@@ -1,0 +1,1 @@
+Je suis titulaire d’une Licence en Informatique, option Génie Logiciel, et actuellement étudiant en Master 1 en Intelligence Artificielle et Smart Technologies. Je m’intéresse particulièrement à la data science, au machine learning et aux applications de l’intelligence artificielle dans le domaine de la santé.
